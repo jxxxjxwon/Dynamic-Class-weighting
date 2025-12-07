@@ -29,7 +29,7 @@ Epoch이 끝날 때마다 Confusion Matrix 기반으로 Recall, Accuracy, F1 Sco
 업데이트된 클래스 가중치를 적용한 뒤 모델을 다시 학습하며, Validation Loss를 기준으로 Early Stopping을 수행한다. 성능이 개선되면 다음 Epoch로 반복하며, 성능 향상이 일정 기간 지속되지 않을 경우 학습을 종료한다.
 
 ## Result
-#### Metric별 동적 가중치 Model에서의 성능
+1. #### Metric별 동적 가중치 Model에서의 성능
 <!--Table-->
 | Metric | Test Accuracy | Best Val      |
 |------------------------|---------------|--------------------------|
@@ -42,7 +42,7 @@ Metric별 동적 가중치 모델의 효과를 확인하기 위해 Recall, F1 Sc
 
 실험 결과, 세 가지 Metric 중 **Recall** 기반 모델이 **Test Accuracy 97.71%** 로 가장 우수한 성능을 보였다.
 
-#### 유사 Model간의 성능 비교
+2. #### 유사 Model간의 성능 비교
 
 | Models        | Test Accuracy | Best Val |
 |---------------|----------------|-----------------|
