@@ -1,6 +1,6 @@
 <!--Heading-->
 ## Multi-Wafer Map Classification Enhancement via Adaptive Dynamic Class Weighting
-**4학년 2학기** personal Project
+**4학년 2학기** Personal Project
 
 
 ## Summary
