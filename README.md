@@ -67,7 +67,6 @@ Metric별 동적 가중치 모델의 효과를 검증하기 위해 Recall, F1 Sc
 
 
 ## Reference
------
 **Dataset** : https://www.kaggle.com/datasets/co1d7era/mixedtype-wafer-defect-datasets
 **VIT** : https://github.com/PanithanS/Wafers-Defect-Recognition-using-Visual-Transformer
 
